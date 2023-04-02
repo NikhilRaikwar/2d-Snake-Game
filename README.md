@@ -30,5 +30,5 @@
 </ul>
 
 <h2>License</h2>
-<p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
+<p>This project is licensed under the <a href="LICENSE">MIT License</a> - see the LICENSE file for details.</p>
 
